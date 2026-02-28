@@ -1,0 +1,2 @@
+# github_project_favorite
+收藏一些github的项目，但又不想fork
