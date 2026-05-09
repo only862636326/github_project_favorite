@@ -24,3 +24,5 @@ https://github.com/candycat1992/Unity_Shaders_Book
 https://github.com/netri/Neitri-Unity-Shaders
 Neitri-Unity-Shaders
 Collection of shaders for Unity3D and VRChat. World Normal and World Positon shaders have been used as basis for more interesting advanced effects, such as:
+
+https://github.com/ok-oldking/ok-script 
